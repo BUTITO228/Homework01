@@ -1,0 +1,35 @@
+
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.slnx
+*.suo
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Other IDEs
+.idea/
+.vscode/
+
+# Plugin generated files
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Debug and temporary files
+*.pdb
+*.obj
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
